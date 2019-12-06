@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hehoku.com</id>
+    <id>https://blog.hehoku.com</id>
     <title>Hehoku&apos;s Blog</title>
-    <updated>2019-10-23T03:09:10.486Z</updated>
+    <updated>2019-12-06T10:31:15.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hehoku.com"/>
-    <link rel="self" href="https://hehoku.com/atom.xml"/>
+    <link rel="alternate" href="https://blog.hehoku.com"/>
+    <link rel="self" href="https://blog.hehoku.com/atom.xml"/>
     <subtitle>记录 分享 创造</subtitle>
-    <logo>https://hehoku.com/images/avatar.png</logo>
-    <icon>https://hehoku.com/favicon.ico</icon>
+    <logo>https://blog.hehoku.com/images/avatar.png</logo>
+    <icon>https://blog.hehoku.com/favicon.ico</icon>
     <rights>All rights reserved 2019, Hehoku&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello ]]></title>
-        <id>https://hehoku.com/post/hello</id>
-        <link href="https://hehoku.com/post/hello">
+        <id>https://blog.hehoku.com/post/hello</id>
+        <link href="https://blog.hehoku.com/post/hello">
         </link>
         <updated>2019-10-23T03:07:21.000Z</updated>
         <content type="html"><![CDATA[<p>TEST</p>
